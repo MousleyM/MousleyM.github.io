@@ -1,0 +1,32 @@
+* {
+	background-color:black;
+	font-family:verdana;
+	text-align:center;
+}
+
+h1 {
+	color:white;
+	font-weight:normal;
+	font-size:50px;
+}
+ a {
+	 color:aquamarine;
+	 font-size:16px;
+ }
+ 
+ h2{
+	color:white;
+	font-weight:300;
+	font-size:42px;
+ }
+ 
+ .para {
+	color:gray;
+	font-size:21px;
+ }
+ 
+ .copyright{
+	text-align:right;
+	color:gray;
+	font-size:21px
+ }
